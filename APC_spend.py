@@ -5,6 +5,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+st.header('APC Spend')
+st.write('Eric Schares, 4/28/24')
+
 merged2 = pd.read_csv('OpenAlex_and_Dimensions_counts_merged_withJournalName.csv')
 
 fig = px.scatter(merged2, x='n_works', y='Dim_count', color='issn', symbol='key', opacity=0.7,
