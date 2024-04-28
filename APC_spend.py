@@ -10,6 +10,10 @@ st.write('Eric Schares, 4/28/24')
 
 merged2 = pd.read_csv('OpenAlex_and_Dimensions_counts_merged_withJournalName.csv')
 
+if st.checkbox('Show raw data'):
+    st.subheader('Raw data')
+    st.write(merged2)
+
 fig = px.scatter(merged2, x='n_works', y='Dim_count', color='issn', symbol='key', opacity=0.7,
           title='Count of articles in OpenAlex and Dimensions, by journal/year/OA status',
           hover_name = 'Publisher_Journalname',
