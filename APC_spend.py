@@ -20,4 +20,5 @@ fig.add_shape(type="line",
     x0=1, y0=0, x1=2000, y1=2000,
     line=dict(color="Purple", width=1, dash="dot"))
 
-st.plotly_chart(fig)
+fig.update_layout(width=800, height=600)
+st.plotly_chart(fig, use_container_width=True)
