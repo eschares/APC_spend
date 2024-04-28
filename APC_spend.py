@@ -12,6 +12,7 @@ merged2 = pd.read_csv('OpenAlex_and_Dimensions_counts_merged_withJournalName.csv
 
 if st.checkbox('Show raw data'):
     st.subheader('Raw data')
+    st.write('n_works is from OpenAlex, Dim_count is from Dimensions')
     st.write(merged2)
 
 fig = px.scatter(merged2, x='n_works', y='Dim_count', color='issn', symbol='key', opacity=0.7,
