@@ -23,10 +23,11 @@ fig = px.scatter(merged2, x='n_works', y='Dim_count', color='issn', symbol='key'
               "n_works": "OpenAlex count",
               "Dim_count": "Dimensions count"}
         )
+fig.update_traces(marker=dict(size=10))
 
 fig.add_shape(type="line",
     x0=1, y0=0, x1=2000, y1=2000,
     line=dict(color="Purple", width=1, dash="dot"))
 
-fig.update_layout(width=1200, height=800)
+fig.update_layout(width=1000, height=600)
 st.plotly_chart(fig, use_container_width=True)
