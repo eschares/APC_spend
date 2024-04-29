@@ -1,0 +1,251 @@
+Unnamed: 0,year,key,n_works,issn,oa_status,Dim_count,Publisher_Journalname,unique_id,Publisher,ISSN_1
+0,2019,gold,1284,2211-1247,gold,1265.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+1,2019,green,3,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+2,2019,closed,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+3,2019,bronze,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+4,2019,hybrid,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+5,2020,gold,1311,2211-1247,gold,1299.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+6,2020,green,20,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+7,2020,closed,9,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+8,2020,bronze,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+9,2020,hybrid,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+10,2021,gold,1304,2211-1247,gold,1382.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+11,2021,green,82,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+12,2021,closed,32,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+13,2021,bronze,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+14,2021,hybrid,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+15,2022,gold,1268,2211-1247,gold,1477.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+16,2022,green,163,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+17,2022,closed,70,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+18,2022,bronze,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+19,2022,hybrid,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+20,2023,gold,1590,2211-1247,gold,1571.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+21,2023,bronze,9,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+22,2023,green,5,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+23,2023,closed,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+24,2023,hybrid,0,2211-1247,,0.0,Elsevier_Cell Reports,484,Elsevier,2211-1247
+0,2019,gold,434,2214-109X,gold,121.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+1,2019,closed,6,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+2,2019,green,1,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+3,2019,bronze,0,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+4,2019,hybrid,0,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+5,2020,gold,395,2214-109X,gold,124.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+6,2020,closed,6,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+7,2020,green,4,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+8,2020,bronze,0,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+9,2020,hybrid,0,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+10,2021,gold,425,2214-109X,gold,138.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+11,2021,green,9,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+12,2021,closed,4,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+13,2021,bronze,0,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+14,2021,hybrid,0,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+15,2022,gold,361,2214-109X,gold,146.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+16,2022,green,50,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+17,2022,closed,12,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+18,2022,hybrid,4,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+19,2022,bronze,1,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+20,2023,gold,329,2214-109X,gold,168.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+21,2023,closed,46,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+22,2023,green,42,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+23,2023,hybrid,2,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+24,2023,bronze,1,2214-109X,,0.0,Elsevier_The Lancet Global Health,3094,Elsevier,2214-109X
+0,2019,gold,162,2542-5196,gold,36.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+1,2019,green,2,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+2,2019,closed,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+3,2019,bronze,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+4,2019,hybrid,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+5,2020,gold,136,2542-5196,gold,47.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+6,2020,green,6,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+7,2020,closed,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+8,2020,bronze,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+9,2020,hybrid,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+10,2021,gold,172,2542-5196,gold,80.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+11,2021,green,15,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+12,2021,closed,12,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+13,2021,bronze,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+14,2021,hybrid,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+15,2022,gold,154,2542-5196,gold,90.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+16,2022,green,23,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+17,2022,closed,6,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+18,2022,bronze,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+19,2022,hybrid,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+20,2023,gold,130,2542-5196,gold,91.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+21,2023,closed,15,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+22,2023,green,7,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+23,2023,bronze,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+24,2023,hybrid,0,2542-5196,,0.0,Elsevier_The Lancet Planetary Health,3102,Elsevier,2542-5196
+0,2019,gold,164,2468-2667,gold,44.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+1,2019,green,1,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+2,2019,closed,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+3,2019,bronze,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+4,2019,hybrid,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+5,2020,gold,181,2468-2667,gold,56.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+6,2020,green,3,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+7,2020,closed,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+8,2020,bronze,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+9,2020,hybrid,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+10,2021,gold,167,2468-2667,gold,85.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+11,2021,green,4,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+12,2021,closed,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+13,2021,bronze,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+14,2021,hybrid,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+15,2022,gold,149,2468-2667,gold,80.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+16,2022,green,19,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+17,2022,closed,14,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+18,2022,bronze,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+19,2022,hybrid,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+20,2023,gold,147,2468-2667,gold,90.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+21,2023,green,26,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+22,2023,closed,4,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+23,2023,bronze,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+24,2023,hybrid,0,2468-2667,,0.0,Elsevier_The Lancet Public Health,3104,Elsevier,2468-2667
+0,2019,gold,200,2213-6711,gold,185.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+1,2019,closed,1,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+2,2019,bronze,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+3,2019,green,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+4,2019,hybrid,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+5,2020,gold,190,2213-6711,gold,196.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+6,2020,green,3,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+7,2020,closed,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+8,2020,bronze,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+9,2020,hybrid,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+10,2021,gold,248,2213-6711,gold,224.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+11,2021,green,5,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+12,2021,closed,1,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+13,2021,bronze,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+14,2021,hybrid,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+15,2022,gold,182,2213-6711,gold,201.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+16,2022,green,19,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+17,2022,closed,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+18,2022,bronze,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+19,2022,hybrid,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+20,2023,gold,196,2213-6711,gold,163.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+21,2023,green,3,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+22,2023,closed,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+23,2023,bronze,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+24,2023,hybrid,0,2213-6711,,0.0,Elsevier_Stem Cell Reports,2951,Elsevier,2213-6711
+0,2019,gold,883,0160-4120,gold,951.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+1,2019,closed,7,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+2,2019,green,2,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+3,2019,bronze,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+4,2019,hybrid,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+5,2020,gold,899,0160-4120,gold,871.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+6,2020,green,2,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+7,2020,closed,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+8,2020,bronze,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+9,2020,hybrid,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+10,2021,gold,685,0160-4120,gold,663.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+11,2021,closed,2,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+12,2021,green,2,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+13,2021,bronze,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+14,2021,hybrid,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+15,2022,gold,698,0160-4120,gold,611.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+16,2022,closed,33,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+17,2022,green,24,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+18,2022,bronze,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+19,2022,hybrid,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+20,2023,gold,660,0160-4120,gold,638.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+21,2023,bronze,3,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+22,2023,green,2,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+23,2023,closed,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+24,2023,hybrid,0,0160-4120,,0.0,Elsevier_Environment International,1000,Elsevier,0160-4120
+0,2019,gold,10,2590-0420,gold,3.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+1,2019,closed,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+2,2019,bronze,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+3,2019,green,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+4,2019,hybrid,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+5,2020,gold,26,2590-0420,gold,11.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+6,2020,closed,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+7,2020,bronze,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+8,2020,green,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+9,2020,hybrid,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+10,2021,gold,12,2590-0420,gold,5.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+11,2021,closed,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+12,2021,bronze,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+13,2021,green,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+14,2021,hybrid,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+15,2022,closed,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+16,2022,bronze,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+17,2022,gold,0,2590-0420,gold,1.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+18,2022,green,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+19,2022,hybrid,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+20,2023,gold,8,2590-0420,gold,3.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+21,2023,green,1,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+22,2023,closed,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+23,2023,bronze,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+24,2023,hybrid,0,2590-0420,,0.0,Elsevier_The Journal of Pediatrics: X,3076,Elsevier,2590-0420
+0,2019,gold,38,2590-1567,gold,34.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+1,2019,closed,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+2,2019,bronze,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+3,2019,green,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+4,2019,hybrid,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+5,2020,gold,25,2590-1567,gold,23.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+6,2020,closed,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+7,2020,bronze,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+8,2020,green,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+9,2020,hybrid,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+10,2021,gold,35,2590-1567,gold,36.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+11,2021,green,2,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+12,2021,closed,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+13,2021,bronze,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+14,2021,hybrid,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+15,2022,gold,31,2590-1567,gold,43.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+16,2022,green,6,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+17,2022,closed,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+18,2022,bronze,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+19,2022,hybrid,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+20,2023,gold,40,2590-1567,gold,64.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+21,2023,hybrid,29,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+22,2023,green,8,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+23,2023,closed,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+24,2023,bronze,0,2590-1567,,0.0,Elsevier_International Journal of Pharmaceutics: X,1469,Elsevier,2590-1567
+0,2019,gold,11,2590-1370,gold,10.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+1,2019,closed,1,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+2,2019,green,1,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+3,2019,bronze,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+4,2019,hybrid,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+5,2020,gold,7,2590-1370,gold,4.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+6,2020,closed,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+7,2020,bronze,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+8,2020,green,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+9,2020,hybrid,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+10,2021,gold,14,2590-1370,gold,11.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+11,2021,closed,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+12,2021,bronze,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+13,2021,green,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+14,2021,hybrid,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+15,2022,gold,130,2590-1370,gold,169.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+16,2022,closed,36,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+17,2022,green,5,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+18,2022,bronze,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+19,2022,hybrid,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+20,2023,gold,93,2590-1370,gold,106.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+21,2023,hybrid,15,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+22,2023,green,4,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+23,2023,closed,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+24,2023,bronze,0,2590-1370,,0.0,Elsevier_Biosensors and Bioelectronics: X,389,Elsevier,2590-1370
+0,2019,hybrid,40,2590-1400,hybrid,37.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+1,2019,gold,2,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+2,2019,bronze,1,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+3,2019,closed,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+4,2019,green,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+5,2020,hybrid,29,2590-1400,hybrid,31.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+6,2020,gold,3,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+7,2020,closed,1,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+8,2020,bronze,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+9,2020,green,0,2590-1400,green,1.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+10,2021,hybrid,28,2590-1400,hybrid,28.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+11,2021,gold,2,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+12,2021,closed,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+13,2021,bronze,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+14,2021,green,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+15,2022,hybrid,3,2590-1400,hybrid,2.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+16,2022,closed,0,2590-1400,closed,1.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+17,2022,bronze,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+18,2022,gold,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+19,2022,green,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+20,2023,closed,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+21,2023,bronze,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+22,2023,gold,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+23,2023,green,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
+24,2023,hybrid,0,2590-1400,,0.0,Elsevier_Chemical Engineering Science: X,511,Elsevier,2590-1400
