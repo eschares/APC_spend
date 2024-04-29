@@ -5,19 +5,21 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-#st. set_page_config(layout="wide")
+st. set_page_config(layout="wide")
 
 st.header('Comparison of OpenAlex and Dimensions article counts')
 st.write('Eric Schares, 4/28/24')
 
-merged2 = pd.read_csv('OpenAlex_and_Dimensions_counts_merged_withJournalName.csv')
+first10 = pd.read_csv('OpenAlex_and_Dimensions_counts_merged_first10ISSNs_withJournalName.csv')
 
 if st.checkbox('Show raw data'):
     st.subheader('Raw data')
     st.write('n_works is from OpenAlex, Dim_count is from Dimensions')
-    st.write(merged2)
+    st.write(first10)
 
-fig = px.scatter(merged2, x='n_works', y='Dim_count', color='issn', symbol='key', opacity=0.7,
+st.header('Compare first 10 ISSNs')
+
+fig = px.scatter(first10, x='n_works', y='Dim_count', color='Publisher_Journalname', symbol='key', opacity=0.7,
           title='Count of articles in OpenAlex and Dimensions, by journal/year/OA status',
           hover_name = 'Publisher_Journalname',
           hover_data = ['issn', 'year'],
@@ -27,8 +29,69 @@ fig = px.scatter(merged2, x='n_works', y='Dim_count', color='issn', symbol='key'
         )
 fig.update_traces(marker=dict(size=10))
 
+fig.add_annotation(x=550, y=120,
+                        text="Lots of Letters to Editor",
+                        showarrow = False,
+                        ax=-120,
+                        ay=100)
+
+fig.add_annotation(x=200, y=50,
+                        text="Lots of LtE",
+                        showarrow = False,
+                        ax=-120,
+                        ay=100)
+
+fig.add_annotation(x=700, y=750,
+                        text="OpenAlex finds non-gold",
+                        showarrow = True,
+                        ax=-100,
+                        ay=-80)
+fig.add_annotation(x=1280, y=1350,
+                        text="",
+                        showarrow = True,
+                        ax=-250,
+                        ay=10)
+fig.add_annotation(x=200, y=250,
+                        text="",
+                        showarrow = True,
+                        ax=50,
+                        ay=-150)
+
 fig.add_shape(type="line",
     x0=1, y0=0, x1=2000, y1=2000,
+    line=dict(color="Purple", width=1, dash="dot"))
+
+fig.update_layout(width=800, height=500)
+st.plotly_chart(fig, use_container_width=True)
+
+
+
+st.header('Compare first 50 ISSNs')
+first50 = pd.read_csv('OpenAlex_and_Dimensions_counts_merged_first50ISSNs_withJournalName.csv')
+
+if st.checkbox('Show raw data '):
+    st.subheader('Raw data')
+    st.write('n_works is from OpenAlex, Dim_count is from Dimensions')
+    st.write(first50)
+
+fig = px.scatter(first50, x='n_works', y='Dim_count', color='Publisher_Journalname', symbol='key', opacity=0.7,
+          title='Count of articles in OpenAlex and Dimensions, by journal/year/OA status',
+          hover_name = 'Publisher_Journalname',
+          hover_data = ['issn', 'year'],
+          labels={
+              "n_works": "OpenAlex count",
+              "Dim_count": "Dimensions count"}
+        )
+fig.update_traces(marker=dict(size=8))
+
+fig.add_annotation(x=1550, y=400,
+                        text="Nearly all conference abstracts",
+                        showarrow = False,
+                        ax=-120,
+                        ay=100)
+
+fig.add_shape(type="line",
+    x0=1, y0=0, x1=3000, y1=3000,
     line=dict(color="Purple", width=1, dash="dot"))
 
 fig.update_layout(width=800, height=500)
